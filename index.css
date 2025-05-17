@@ -1,0 +1,30 @@
+/* index.css */
+body {
+    font-family: sans-serif;
+    color: #c42828;
+    text-align: center;
+    padding-top: 10px;
+    background-image: url('img.jpg');
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: auto;
+  }
+  
+  .countdown {
+    font-size: 3em;
+    font-weight: bold;
+    letter-spacing: 4px;
+    margin: 20px 0;
+  }
+  
+  .message {
+    font-size: 1.2em;
+    margin-top: 10px;
+    color: #f8e71c;
+  }
+  
